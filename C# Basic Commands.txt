@@ -1,0 +1,20 @@
+Console.WriteLine("Hello World); <--- String
+Console.ReadLine(); <--- Houd de console command open wanneer het autoamtisch dicht gaat
+
+string my_name = "Atilhan"; | Om een string variable aan te geven.
+int my_age = 27; | Om een integer value aan te geven bij een variable.
+char single_letter = 'A'; | Om een single string letter een waarde te geven [Voorbeeld] in games heb je A B C keuzes, iedere letter kan je dan een apparte value geven.
+decimal money = 31,50; | Om een precies decimaal waarde te geven waar decimale values belangerijk & accuraat moeten zijn.
+double money = 3,2; |Use double for non-integer math where the most precise answer isn't necessary. Use decimal for non-integer math where precision is needed
+
+[Extra Info][Use double for non-integer math where the most precise answer isn't necessary. Use decimal for non-integer math where precision 
+is neededUse double for non-integer math where the most precise answer isn't necessary. Use decimal for non-integer math where precision is needed.]
+
+bool = is_apple = true | Bool is om te kijken of de waarde waar of niet waar is. De variable is_apple is gegeven om te kijken of het een appel is of niet. Als het wel een appel is 
+word de value veranderd true, als het niet zo is dan veranderd het naar een false.
+
+Console.WriteLine("Ik wil graag een \"Banaan\""); | Hiermee kan je een '' in een string gebruiken
+
+
+
+

@@ -1,0 +1,15 @@
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.exe
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.deps.json
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.runtimeconfig.json
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.dll
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.pdb
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.csproj.AssemblyReference.cache
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.AssemblyInfoInputs.cache
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.AssemblyInfo.cs
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.csproj.CoreCompileInputs.cache
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.dll
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\refint\CSharp Beginners Project.dll
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.pdb
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.genruntimeconfig.cache
+D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\ref\CSharp Beginners Project.dll
