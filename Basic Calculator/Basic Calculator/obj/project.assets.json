@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Atilhan\\.nuget\\packages\\": {}
+    "C:\\Users\\Gorin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\school\\C# Course\\Basic Calculator\\Basic Calculator\\Basic Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp Course\\Basic Calculator\\Basic Calculator\\Basic Calculator.csproj",
       "projectName": "Basic Calculator",
-      "projectPath": "D:\\Downloads\\school\\C# Course\\Basic Calculator\\Basic Calculator\\Basic Calculator.csproj",
-      "packagesPath": "C:\\Users\\Atilhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\school\\C# Course\\Basic Calculator\\Basic Calculator\\obj\\",
+      "projectPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp Course\\Basic Calculator\\Basic Calculator\\Basic Calculator.csproj",
+      "packagesPath": "C:\\Users\\Gorin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp Course\\Basic Calculator\\Basic Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Atilhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

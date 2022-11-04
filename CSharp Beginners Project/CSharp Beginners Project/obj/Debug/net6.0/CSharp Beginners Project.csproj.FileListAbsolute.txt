@@ -13,3 +13,18 @@ D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\
 D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.pdb
 D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.genruntimeconfig.cache
 D:\Downloads\school\C# Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\ref\CSharp Beginners Project.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.exe
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.deps.json
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.runtimeconfig.json
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\bin\Debug\net6.0\CSharp Beginners Project.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.csproj.AssemblyReference.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.AssemblyInfoInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.AssemblyInfo.cs
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.csproj.CoreCompileInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\refint\CSharp Beginners Project.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\CSharp Beginners Project.genruntimeconfig.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp Course\CSharp Beginners Project\CSharp Beginners Project\obj\Debug\net6.0\ref\CSharp Beginners Project.dll

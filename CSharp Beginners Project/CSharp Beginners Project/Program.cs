@@ -7,14 +7,21 @@ using System.Threading.Tasks;
 
 public class Program
 {
+
+private static int addUp (int a ,int b)
+    {
+        
+        return a+b;
+
+    }
     private static void Main(string[] args)
     {
-        /*
-        string my_name = "Atilhan";
+        
+        /*string my_name = "Atilhan";
         int my_age = 27;
         
         Console.WriteLine("Hello, my name is " + my_name);
-        Console.WriteLine("I'm currently" + my_age + "years old");
+        Console.WriteLine($"I'm currently {my_age} years old");
         Console.WriteLine("And I've just started my first C# Tutorial.");
         Console.WriteLine("My favorite number is " + my_age);
 
@@ -69,12 +76,41 @@ public class Program
 
         Console.WriteLine($"My favourite food is {food}");
         Console.WriteLine($"{coding_language} is my favourite coding language");
-        Console.WriteLine($"I love to drink {drink}"); */
+        Console.WriteLine($"I love to drink {drink}"); 
 
         int[] my_list = { 1, 2, 3, 4, 5 }; //Dit is een array oftewel een list. Je geeft een array aan met blokhaken []
-        string[] my_shopping_list = { "Apple", "Energie", "Water" };
+        string[] my_shopping_list = { "Apple", "Energie", "Water","Milk" };
 
-        Console.WriteLine(my_shopping_list[1]);
+        Console.WriteLine(my_shopping_list[3]);
+        int uitkomst = addUp(3, 5);
+        Console.WriteLine(uitkomst);*/
+
+        Console.WriteLine("Wat is uw naam ?");
+        string naam = Console.ReadLine();
+        string opleiding = "onbekend";
+        string beroep = "onbekend";
+
+        if (naam == "Atilhan")
+        {
+            Console.WriteLine("Wat is je opleiding ?: ");
+            opleiding = Console.ReadLine();
+            Console.WriteLine($"Uw huidige opleiding is: {opleiding} en uw naam is {naam}");
+        }
+
+        else if(naam == "Slemmer")
+        {
+            Console.WriteLine("Wat is uw beroep? ");
+            beroep = Console.ReadLine();
+            Console.WriteLine($"Uw huidige beroep is: {beroep} en uw naam is {naam}");
+        }
+
+        Console.WriteLine($"Uw naam is {naam}. Uw opleiding is {opleiding} en uw beroep is {beroep}");
+
+
+
+
+
+
     }   
 
 
