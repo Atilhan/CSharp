@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp Course\\Project Kaas\\Project Kaas\\Project Kaas.csproj",
+      "projectUniqueName": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp\\Project Kaas\\Project Kaas\\Project Kaas.csproj",
       "projectName": "Project Kaas",
-      "projectPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp Course\\Project Kaas\\Project Kaas\\Project Kaas.csproj",
+      "projectPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp\\Project Kaas\\Project Kaas\\Project Kaas.csproj",
       "packagesPath": "C:\\Users\\Gorin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp Course\\Project Kaas\\Project Kaas\\obj\\",
+      "outputPath": "C:\\Users\\Gorin\\Downloads\\School\\school opdrachten\\software\\jaar2\\CSharp\\Project Kaas\\Project Kaas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gorin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
