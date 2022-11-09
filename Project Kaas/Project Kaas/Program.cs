@@ -4,6 +4,13 @@ namespace ProjectKaas
 {
     class Program
     {
+
+        static Boolean vraag(string prompt)
+        {
+            Console.WriteLine(prompt);
+            string antwoord = Console.ReadLine().ToLower();
+            return antwoord == "ja" || antwoord == "yes";
+        }
         static void Main(string[] args)
         {
 
@@ -24,36 +31,35 @@ namespace ProjectKaas
 
             //Project Kaas//
 
-            Console.WriteLine("Is de kaas geel ?");
-            string vraag_1 = Console.ReadLine();
-            string lower_case = vraag_1.ToLower();
+            Boolean isGeel = vraag("Is de kaas geel ?");
 
-            if (vraag_1 == "Ja")
+
+            if (isGeel) // #1 hier word de if statement toegepast met een condition.
             { 
-                Console.WriteLine("Zitten er gaatjes in? ");
-                string vraag_2 = Console.ReadLine();
+                Boolean heeftGaatjes = vraag("Zitten er gaatjes in? ");
+                
 
-                if (vraag_2 == "Ja")
+                if (heeftGaatjes) //#1 Hier word de 2e if statement binnen in een if statement toegepast, je moet er in zijn om verder een if statement te maken.
                 {
                     Console.WriteLine("Is de kaas belachelijk duur ?");
                     string vraag_3 = Console.ReadLine();
 
-                    if(vraag_3 == "Ja")
+                    if (vraag_3 == "Ja") //#2 Hier word de 3e if statement binnen in een ifstatement gegeven.
                     {
                         Console.WriteLine("Emmenthaler");
                     }
-                    else
+                    else //#2 De else statement is in de zelfde tab line gegeven, als het ergens anders zou zijn dan zou het niet werken.
                     {
                         Console.WriteLine("Leerdammer");
                     }
                 }
 
-                else if(vraag_2 == "Nee")
+                else //#3 hier word nog een else if statement geopent. Daar onder gaat weer een if statement verder in een nieuwe tab line.
                 {
                     Console.WriteLine("Is de kaas hard als steen ?");
                     string vraag_4 = Console.ReadLine();
 
-                    if (vraag_4 == "Ja")
+                    if (vraag_4 == "Ja")// #3 het word hier weer geopend en daar onder word het met een else afgerond. alles hoort binnen in de zelfde lijn te werken , tenminsten als het bijelkaar hoort.
                     {
                         Console.WriteLine("Pamnigiano Reggiano");
                     }
@@ -64,7 +70,7 @@ namespace ProjectKaas
                 }
             }
             
-            else if(vraag_1 == "Nee")
+            else if(!isGeel) //#1 Dit is de else if statement die in de zelfde tab line word toegepast om een else statement te zetten voor de if statement in de zelfde lijn
             {
                 Console.WriteLine("Heeft de kaas blauwe schimmels ?");
                 string vraag_5 = Console.ReadLine();
