@@ -1,0 +1,8 @@
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Better Calculator\Better Calculator\Better Calculator\bin\Debug\Better Calculator.exe.config
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Better Calculator\Better Calculator\Better Calculator\bin\Debug\Better Calculator.exe
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Better Calculator\Better Calculator\Better Calculator\bin\Debug\Better Calculator.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Better Calculator\Better Calculator\Better Calculator\obj\Debug\Better Calculator.csproj.AssemblyReference.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Better Calculator\Better Calculator\Better Calculator\obj\Debug\Better Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Better Calculator\Better Calculator\Better Calculator\obj\Debug\Better Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Better Calculator\Better Calculator\Better Calculator\obj\Debug\Better Calculator.exe
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Better Calculator\Better Calculator\Better Calculator\obj\Debug\Better Calculator.pdb
