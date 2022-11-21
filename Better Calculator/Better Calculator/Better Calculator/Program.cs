@@ -18,6 +18,7 @@ namespace Better_Calculator
 
             Console.Write("Insert a second number: ");
             double number_2 = Convert.ToDouble(Console.ReadLine());
+            
 
             if (chose_operator == "+")
             {
@@ -39,6 +40,8 @@ namespace Better_Calculator
             {
                 Console.WriteLine("Invalid operator");
             }
+
+            Console.ReadLine();
         }
     }
 }
