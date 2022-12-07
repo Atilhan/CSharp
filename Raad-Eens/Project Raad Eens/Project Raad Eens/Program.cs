@@ -12,11 +12,14 @@ namespace Raad_Eens
             int game_rounds = 1;
             int game_chances = 0;
             bool the_game = true;
+            string game_terminate = Console.ReadLine();
+            
+            Console.WriteLine("Terminate the game by typing : \"Terminate\"");
 
-            while(the_game) 
+            while (the_game) 
             {
                 int RandomNumber = rnd.Next(0, 1000);
-                Console.Write(RandomNumber.ToString());
+                Console.WriteLine(RandomNumber.ToString());
 
                 game_chances = 0;
                 game_rounds+= 1;
@@ -38,10 +41,49 @@ namespace Raad_Eens
                     Console.WriteLine("Guess a number between 1 & 1000");
                     int number_guess = Convert.ToInt32(Console.ReadLine());
 
-                    if (number_guess == "Terminate")
+                    if (game_terminate == "Terminate")
                     {
-
+                        Console.WriteLine("You have terminated the game.");
+                        the_game = false;
+                        game_chances = 10;
+                        break;
                     }
+                    if (number_guess == RandomNumber)
+                    {
+                        Console.WriteLine("You've guessed it right !");
+                        game_chances += 1;
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("You've guessed it wrong ! try again.");
+                    }
+                    if (number_guess > RandomNumber && number_guess < RandomNumber + 20)
+                    {
+                        Console.WriteLine($"You're close! only 20 difference lower between {number_guess}");
+                    }
+                    else if (number_guess < RandomNumber && number_guess > RandomNumber - 20)
+                    {
+                        Console.WriteLine($"You're close! only 20 difference higher between {number_guess}");
+                    }
+                    else if (number_guess > RandomNumber && number_guess < RandomNumber + 50)
+                    {
+                        Console.WriteLine($"You're close! only 50 difference lower between {number_guess}");
+                    }
+                    else if (number_guess < RandomNumber && number_guess > RandomNumber - 50)
+                    {
+                        Console.WriteLine($"You're close! only 50 difference higher between {number_guess}");
+                    }
+                    else if (number_guess > RandomNumber)
+                    {
+                        Console.WriteLine($"You're way off, guess lower than {number_guess}");
+                    }
+                    else if (number_guess < RandomNumber)
+                    {
+                        Console.WriteLine($"You're way off, guess higher than {number_guess}");
+                    }
+                Console.WriteLine($"Your total points are: {game_rounds}");
+
                 }
             }
         }
