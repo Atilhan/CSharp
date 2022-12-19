@@ -9,7 +9,7 @@ namespace Raad_Eens
         {
             Random rnd = new Random();
 
-            int game_rounds = 1;
+            int game_rounds = 0;
             int game_chances = 0;
             bool the_game = true;
             string game_terminate = Console.ReadLine();
@@ -22,9 +22,8 @@ namespace Raad_Eens
                 Console.WriteLine(RandomNumber.ToString());
 
                 game_chances = 0;
-                game_rounds+= 1;
 
-                if(game_rounds == 20)
+                if(game_rounds <= 20)
                 {
                     the_game = false;
                 }
@@ -37,7 +36,9 @@ namespace Raad_Eens
                 while (game_chances < 10)
                 {
                     game_chances += 1;
+                    game_rounds += 1;
                     Console.WriteLine($"You have 10 chances to guess. You start at 1 chance and it goes up. You now have {game_chances} remaining.");
+                    Console.WriteLine($"Current round is:{game_rounds}");
                     Console.WriteLine("Guess a number between 1 & 1000");
                     int number_guess = Convert.ToInt32(Console.ReadLine());
 
@@ -82,7 +83,11 @@ namespace Raad_Eens
                     {
                         Console.WriteLine($"You're way off, guess higher than {number_guess}");
                     }
-                Console.WriteLine($"Your total points are: {game_rounds}");
+                    if(game_chances == 10)
+                    {
+                        Console.WriteLine("You've reached your maximum chances, try again ! ");
+                    }
+            Console.WriteLine($"Your total points are: {game_rounds}");
 
                 }
             }

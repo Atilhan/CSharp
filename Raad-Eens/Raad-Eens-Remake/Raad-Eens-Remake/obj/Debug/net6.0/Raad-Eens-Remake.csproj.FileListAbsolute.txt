@@ -1,0 +1,15 @@
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\bin\Debug\net6.0\Raad-Eens-Remake.exe
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\bin\Debug\net6.0\Raad-Eens-Remake.deps.json
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\bin\Debug\net6.0\Raad-Eens-Remake.runtimeconfig.json
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\bin\Debug\net6.0\Raad-Eens-Remake.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\bin\Debug\net6.0\Raad-Eens-Remake.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\Raad-Eens-Remake.csproj.AssemblyReference.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\Raad-Eens-Remake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\Raad-Eens-Remake.AssemblyInfoInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\Raad-Eens-Remake.AssemblyInfo.cs
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\Raad-Eens-Remake.csproj.CoreCompileInputs.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\Raad-Eens-Remake.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\refint\Raad-Eens-Remake.dll
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\Raad-Eens-Remake.pdb
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\Raad-Eens-Remake.genruntimeconfig.cache
+C:\Users\Gorin\Downloads\School\school opdrachten\software\jaar2\CSharp\Raad-Eens\Raad-Eens-Remake\Raad-Eens-Remake\obj\Debug\net6.0\ref\Raad-Eens-Remake.dll
