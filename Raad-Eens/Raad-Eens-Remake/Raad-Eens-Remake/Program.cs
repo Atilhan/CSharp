@@ -4,9 +4,6 @@
     {
         static void Main(string[] args)
         {
-
-
-
             Random rnd = new Random();
             bool game = true;
             int guess_ten_times = 0; //kans_1
@@ -30,22 +27,22 @@
                     game = false; // once your points reached 20 (which is the max you can get) the game will turn to false / stop
                 }
 
-                while (guess_ten_times <= 10) //You only have 10 chances to guess.
+                while (guess_ten_times < 10) //You only have 10 chances to guess.
                 {
                     guess_ten_times += 1; //This is the starting round & will continue to loop with +1 for each time you have to re-guess
                     Console.WriteLine($"You have 10 chances to guess the correct answer. You have: {guess_ten_times} chances left up to 10.");
                     Console.WriteLine("Guess a number between 1 & 1000");
-                    int number_guess = Convert.ToInt32(Console.ReadLine()); //guess | This is where you insert the number you think it might be.
-                    Console.WriteLine("You can execute the game by typing : Terminate"); // Needs to be checked out
-                    string game_terminated = Console.ReadLine();
+                    string guess = Console.ReadLine(); //guess | This is where you insert the number you think it might be.
 
-                    if (game_terminated == "Terminate")
+                    if (guess == "Terminate")
                     {
                         Console.WriteLine("The game has been terminated & will exit.");
                         Console.Read();
-                        game = false; 
+                        game = false;
+                        break;
                     }
 
+                    int number_guess = Convert.ToInt32(guess);
                     if (number_guess == RandomNumber)
                     {
                         Console.WriteLine("You've guessed it correct !");
